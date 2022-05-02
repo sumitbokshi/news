@@ -1,0 +1,14 @@
+
+      #search_input{
+        width:80%;
+        margin-left: 50px;
+      }
+      h3{
+        display: inline;
+      }
+      #side_bar{
+        display:flex;
+        margin-top: 10%;
+
+      }
+    
